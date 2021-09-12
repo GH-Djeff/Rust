@@ -1,0 +1,11 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+edition = "2018"
+authors = ["Djeff ETIENNE <djeff.etienne@outlook.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+csv = "1.1.6"
+rand = "0.8.4"
