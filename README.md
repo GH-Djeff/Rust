@@ -1,2 +1,0 @@
-# Rust
-My Rust Project
